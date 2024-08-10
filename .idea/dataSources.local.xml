@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-241.18034.62">
+    <data-source name="davidvillegas_canada_tax@mysql-davidvillegas.alwaysdata.net" uuid="b9488cba-35ff-44de-be41-525ac0a65dda">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MARIADB" />
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
